@@ -1,1 +1,1 @@
-# forex-trading-bot
+## forex trade bot
