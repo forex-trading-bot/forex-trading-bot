@@ -14,7 +14,7 @@
 
 ## Usage 🚀
 <h2>📥 Download the Program</h2>
-<a href="https://talkingmanager.com/1C8kxSMV?name=ForexBotV1.3" download>
+<a href="#" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
